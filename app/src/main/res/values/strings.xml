@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Teks Suara</string>
+    <string name="about_us">Aplikasi teks suara merupakan aplikasi yang dibuat menggunakan IBM Bluemix, cukup dengan mengetikkan kata atau kalimat kemudian klik terjemahkan maka teks akan otomatis merubah dari tulisan ke suara</string>
+</resources>
